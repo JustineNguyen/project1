@@ -1,0 +1,50 @@
+
+h2 {
+  color: white;
+}
+
+table {
+  height: 40%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 80%;
+  border-radius: 4px;
+}
+
+thead th {
+  background: #c0392b    ;
+  color: #FFF;
+  font-family:'Century Gothic';
+  font-size: 18px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+tr {
+  background: #c0392b    ;
+  border-bottom: 1px solid #FFF;
+  margin-bottom: 5px;
+}
+
+th, td {
+  font-family:'Century Gothic';
+  font-size: 18px;
+  font-weight: 400;
+  padding: 20px;
+  text-align: left;
+  width: 33.3333%;
+  border: dotted 4px;
+  border-color: #7b241c ;
+}
+
+.titleAlg {
+	cursor: crosshair;
+}
+
+.algpic {
+    height:250px; 
+    width:300px;
+}

@@ -1,0 +1,50 @@
+
+h2 {
+  color: white;
+}
+
+table {
+  height: 40%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 80%;
+  border-radius: 4px;
+}
+
+thead th {
+  background: #34495e   ;
+  color: #FFF;
+  font-family:'NSimSun';
+  font-size: 18px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+tr {
+  background: #aab7b8      ;
+  border-bottom: 1px solid #FFF;
+  margin-bottom: 5px;
+}
+
+th, td {
+  font-family:'NSimSun';
+  font-size: 18px;
+  font-weight: 400;
+  padding: 20px;
+  text-align: left;
+  width: 33.3333%;
+  border: dotted 4px;
+  border-color: #1c2833   ;
+}
+
+.titleCS {
+	cursor: crosshair;
+}
+
+.cspic {
+   height:300px;
+   width:350px;
+}
